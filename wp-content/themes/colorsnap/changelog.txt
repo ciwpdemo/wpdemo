@@ -1,0 +1,10 @@
+*** Colorsnap changelog ***
+
+
+Version 1.1 (19-07-2015)
+------------------------- 
+
+New Menu Design Implemented
+New Social Menu Implemented
+FontAwesome Implemented
+
