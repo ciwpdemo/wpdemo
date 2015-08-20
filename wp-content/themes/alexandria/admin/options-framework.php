@@ -24,16 +24,6 @@
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
 	die;
-	die;
-	die;
-	die;
-	die;
-	die;
-	die;
-	die;
-	die;
-	die;
-	die;	
 }
 
 // Don't load if optionsframework_init is already defined
